@@ -1,2 +1,3 @@
 #### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/sooswastaken/count.svg) 
+![Visitor Count](https://komarev.com/ghpvc/?username=sooswastaken)
+
